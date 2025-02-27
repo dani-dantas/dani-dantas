@@ -19,10 +19,10 @@ Sou graduanda em Análise e Desenvolvimento de Sistemas com forte interesse em d
 
 ## Certificados  
 
-- [**Lógica de Programação**](https://drive.google.com/file/d/1XIbgH-BNd31Z-FKgTVfedWwhy7NPnC4a/view?usp=drive_link)
-- [**Linux Fundamentals**](https://drive.google.com/file/d/10xCckSwMaU_LllOzDIMu-RQ9EfBu8Udc/view?usp=drive_link)
-- [**Python Fundamentals**](https://drive.google.com/file/d/167rl1mzVr3_-NLNgH9E9RBeXntNv5Mi1/view?usp=drive_link)
-- [**C/C++ Developer**](https://drive.google.com/file/d/1bn4k1rUOvKHvXQlwr-RDoKH5R2FM6QvF/view?usp=drive_link)
+- [Lógica de Programação](https://drive.google.com/file/d/1XIbgH-BNd31Z-FKgTVfedWwhy7NPnC4a/view?usp=drive_link)
+- [Linux Fundamentals](https://drive.google.com/file/d/10xCckSwMaU_LllOzDIMu-RQ9EfBu8Udc/view?usp=drive_link)
+- [Python Fundamentals](https://drive.google.com/file/d/167rl1mzVr3_-NLNgH9E9RBeXntNv5Mi1/view?usp=drive_link)
+- [C/C++ Developer](https://drive.google.com/file/d/1bn4k1rUOvKHvXQlwr-RDoKH5R2FM6QvF/view?usp=drive_link)
 
 ---
 
