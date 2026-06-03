@@ -22,11 +22,10 @@
 
 </div>
 
-Sou desenvolvedora Frontend formada em **Análise e Desenvolvimento de Sistemas** e cursando **Engenharia de Software** pela Estácio de Sá. Crio interfaces modernas, responsivas e acessíveis com foco em **componentização, performance e experiência do usuário**.
+Sou desenvolvedora Frontend formada em **Análise e Desenvolvimento de Sistemas** e cursando **Engenharia de Software**. Crio interfaces modernas, responsivas e acessíveis com foco em **componentização, performance e experiência do usuário**.
 
-- 🎓 ADS concluído · Engenharia de Software em andamento
 - 📚 Atualmente estudando: **React avançado, TypeScript e Next.js** (Formação Alura)
-- 🌍 Inglês **C1 Advanced** certificado — EF SET · Leitura C2
+- 🌍 Inglês **C1 Avançado** certificado — EF SET · Leitura C2
 - 🚀 Disponível para **estágio ou vaga júnior remota**
 - 📍 Campina Grande, PB — Brasil
 
