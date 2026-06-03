@@ -64,18 +64,6 @@ Crio interfaces modernas, responsivas e acessíveis com foco em **componentizaç
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Daniella's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani-dantas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dani-dantas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-</div>
-
----
-
 ## 🎓 Formação & Certificações
 
 - 🏛️ **Engenharia de Software** — Universidade Estácio de Sá · 2025–2027 *(em andamento)*
