@@ -27,10 +27,10 @@
 ```javascript
 const daniella = {
   foco:       "Frontend Development",
-  formação:   ["ADS ✓", "Engenharia de Software →"],
+  formação:   ["Análise e Desenvolvimento de Sistemas", "Engenharia de Software"],
   estudando:  ["React Avançado", "TypeScript", "Next.js"],
   inglês:     "C1 Advanced — EF SET Certified",
-  localidade: "Campina Grande, PB 🇧🇷",
+  localidade: "Campina Grande, PB",
   disponível: true
 }
 ```
