@@ -45,8 +45,6 @@ Sou desenvolvedora Frontend formada em **Análise e Desenvolvimento de Sistemas*
 
 *Aprendendo agora*
 
-&nbsp;
-
 <img src="https://skillicons.dev/icons?i=ts,nextjs&theme=dark&perline=2" />
 
 </div>
