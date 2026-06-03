@@ -66,7 +66,6 @@ const daniella = {
 | Projeto | Descrição | Stack | Demo |
 |---|---|---|---|
 | [**Portfólio React**](https://github.com/dani-dantas/portfolio-react) | Portfólio pessoal desenvolvido com React do zero | React • JSX • Hooks • CSS3 | [▶ Ver ao vivo](https://github.com/dani-dantas/portfolio-react) |
-| [**TecBoard**](https://github.com/dani-dantas/tecboard) | Dashboard interativo com múltiplas páginas e estado global | React • Context API • CSS Modules | [▶ Ver ao vivo](https://github.com/dani-dantas/tecboard) |
 | [**Fokus**](https://github.com/dani-dantas/fokus) | App Pomodoro com checklist e estados assíncronos | JavaScript ES6+ • DOM • CSS3 | [▶ Ver ao vivo](https://dani-dantas.github.io/fokus) |
 | [**Jornada Viagens**](https://github.com/dani-dantas/jornada-viagens) | Landing page de turismo com foco em SEO e acessibilidade | HTML5 • CSS3 • Flexbox • Grid | [▶ Ver ao vivo](https://dani-dantas.github.io/jornada-viagens) |
 | [**Fanta Site**](https://github.com/dani-dantas/fanta-site) | Landing page temática com animações CSS e GSAP | HTML5 • CSS3 • JavaScript • GSAP | [▶ Ver ao vivo](https://dani-dantas.github.io/fanta-site) |
