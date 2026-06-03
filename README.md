@@ -64,7 +64,6 @@ Sou desenvolvedora Frontend formada em **Análise e Desenvolvimento de Sistemas*
 | Projeto | Descrição | Stack | Demo |
 |:---|:---|:---|:---:|
 | [**Portfólio React**](https://github.com/dani-dantas/portfolio-react) | Portfólio pessoal desenvolvido com React do zero | React • Hooks • CSS3 | [▶](https://portfolio-five-orpin-63.vercel.app/) |
-| [**TecBoard**](https://github.com/dani-dantas/tecboard) | Dashboard interativo com estado global | React • Context API • CSS Modules | [▶](https://dani-dantas.github.io/tecboard) |
 | [**Fokus**](https://github.com/dani-dantas/fokus) | App Pomodoro com checklist integrada | JavaScript ES6+ • DOM • CSS3 | [▶](https://dani-dantas.github.io/fokus) |
 | [**Jornada Viagens**](https://github.com/dani-dantas/jornada-viagens) | Landing page de turismo — SEO e acessibilidade | HTML5 • CSS3 • Flexbox • Grid | [▶](https://dani-dantas.github.io/jornada-viagens) |
 | [**Fanta Site**](https://github.com/dani-dantas/fanta-site) | Landing page com animações CSS e GSAP | HTML5 • CSS3 • JavaScript • GSAP | [▶](https://dani-dantas.github.io/fanta-site) |
