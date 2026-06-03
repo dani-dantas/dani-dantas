@@ -109,8 +109,6 @@ Sou desenvolvedora Frontend formada em **Análise e Desenvolvimento de Sistemas*
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B35,6C3483,4B0082&height=6" width="100%"/>
-
 **Aberta a oportunidades de estágio e vagas júnior remotas 🚀**
 
 </div>
