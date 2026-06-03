@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=4B0082,6C3483,FF6B35&height=120&text=Daniella%20Dantas&fontSize=44&fontColor=ffffff&fontAlignY=45&desc=Desenvolvedora%20Frontend%20%E2%80%A2%20React%20%E2%80%A2%20JavaScript%20%E2%80%A2%20HTML5%20%E2%80%A2%20CSS3&descAlignY=72&descSize=14&descColor=FFD4B8" width="100%"/>
+<img src="./banner.svg" width="100%" alt="Daniella Dantas — Desenvolvedora Frontend"/>
 
 &nbsp;
 
@@ -57,7 +57,7 @@ Sou desenvolvedora Frontend formada em **Análise e Desenvolvimento de Sistemas*
 
 <div align="center">
 
-### 🚀 Projetos em Destaque
+### 🚀 Projetos
 
 &nbsp;
 
@@ -96,8 +96,8 @@ Sou desenvolvedora Frontend formada em **Análise e Desenvolvimento de Sistemas*
 
 </div>
 
-- 🏛️ **Engenharia de Software** — Universidade Estácio de Sá · 2025–2027 *(em andamento)*
-- 🏛️ **Análise e Desenvolvimento de Sistemas** — Universidade Estácio de Sá · 2023–2025 *(concluído)*
+- 🏛️ **Engenharia de Software** — Estácio de Sá · 2025–2027 *(em andamento)*
+- 🏛️ **Análise e Desenvolvimento de Sistemas** — Estácio de Sá · 2023–2025 *(concluído)*
 - 📜 **Formação Desenvolvimento Frontend React** — Alura *(em andamento)*
 - 🌍 **Inglês C1 Avançado** — EF SET Certificado
 
@@ -107,6 +107,12 @@ Sou desenvolvedora Frontend formada em **Análise e Desenvolvimento de Sistemas*
 
 <div align="center">
 
+<img src="./footer.svg" width="100%" alt=""/>
+
+&nbsp;
+
 **Aberta a oportunidades de estágio e vagas júnior remotas 🚀**
+
+&nbsp;
 
 </div>
