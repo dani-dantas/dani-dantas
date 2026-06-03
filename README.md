@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="[https://github.com/dani-dantas/portfolio-react](https://portfolio-five-orpin-63.vercel.app/)">
+<a href="https://portfolio-five-orpin-63.vercel.app/">
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
 </a>
 &nbsp;&nbsp;&nbsp;
