@@ -72,8 +72,6 @@ const daniella = {
 
 </div>
 
-&nbsp;
-
 ---
 
 <div align="center">
