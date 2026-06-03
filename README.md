@@ -4,19 +4,17 @@
 
 ### Desenvolvedora Frontend
 
-*Criando interfaces modernas, responsivas e acessíveis*
-
 &nbsp;
 
 <a href="https://linkedin.com/in/daniella-dantas">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/dani-dantas/portfolio-react">
+<a href="[https://github.com/dani-dantas/portfolio-react](https://portfolio-five-orpin-63.vercel.app/)">
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:danielladantasdev.com">
+<a href="mailto:danielladantasdev@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
 </a>
 
@@ -29,7 +27,7 @@ const daniella = {
   foco:       "Frontend Development",
   formação:   ["Análise e Desenvolvimento de Sistemas", "Engenharia de Software"],
   estudando:  ["React Avançado", "TypeScript", "Next.js"],
-  inglês:     "C1 Advanced — EF SET Certified",
+  inglês:     "C1 Avançado — Certificado EF SET",
   localidade: "Campina Grande, PB",
   disponível: true
 }
