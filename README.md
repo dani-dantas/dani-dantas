@@ -20,7 +20,7 @@ Sou desenvolvedora Frontend, formada em **Análise e Desenvolvimento de Sistemas
 Crio interfaces modernas, responsivas e acessíveis com foco em **componentização, performance e experiência do usuário**. Tenho portfólio ativo com projetos reais no GitHub — do HTML/CSS puro até aplicações React.
 
 - 🎓 ADS concluído · Engenharia de Software em andamento
-- 📚 Atualmente estudando: **React avançado, TypeScript e Next.js** (Formação Alura)
+- 📚 Atualmente estudando: **React avançado, TypeScript e Next.js** (Alura)
 - 🌍 Inglês **C1 Avançado** certificado (EF SET · Leitura C2)
 - 🚀 Disponível para **estágio ou vaga júnior**
 - 📍 Campina Grande, PB — Brasil
