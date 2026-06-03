@@ -76,22 +76,6 @@ Sou desenvolvedora Frontend formada em **Análise e Desenvolvimento de Sistemas*
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-&nbsp;
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=dani-dantas&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&title_color=FF6B35&icon_color=9B59B6" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani-dantas&layout=compact&theme=midnight-purple&hide_border=true&langs_count=5&title_color=FF6B35" />
-
-</div>
-
-&nbsp;
-
----
-
-<div align="center">
-
 ### 🎓 Formação & Certificações
 
 </div>
