@@ -67,7 +67,7 @@ Crio interfaces modernas, responsivas e acessíveis com foco em **componentizaç
 ## 🎓 Formação & Certificações
 
 - 🏛️ **Engenharia de Software** — Universidade Estácio de Sá · 2025–2027 *(em andamento)*
-- 🏛️ **Tecnólogo em ADS** — Universidade Estácio de Sá · 2023–2025 *(concluído)*
+- 🏛️ **Análise e Desenvolvimento de Sistemas** — Universidade Estácio de Sá · 2023–2025 *(concluído)*
 - 📜 **Formação Desenvolvimento Frontend React** — Alura *(em andamento)*
 - 🌍 **Inglês C1 Avançado** — EF SET Certificado
 
