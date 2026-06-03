@@ -26,7 +26,7 @@
 const daniella = {
   foco:       "Frontend Development",
   formação:   ["Análise e Desenvolvimento de Sistemas", "Engenharia de Software"],
-  estudando:  ["React Avançado", "TypeScript", "Next.js"],
+  estudando:  ["React", "TypeScript", "Next.js"],
   inglês:     "C1 Avançado — Certificado EF SET",
   localidade: "Campina Grande, PB",
   disponível: true
