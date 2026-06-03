@@ -49,7 +49,7 @@ const daniella = {
 
 &nbsp;
 
-*aprendendo agora*
+*Aprendendo agora*
 
 <img src="https://skillicons.dev/icons?i=ts,nextjs&theme=dark&perline=2" />
 
