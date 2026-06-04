@@ -27,7 +27,7 @@ Sou desenvolvedora Frontend formada em **Análise e Desenvolvimento de Sistemas*
 - 📚 Atualmente estudando: **React avançado, TypeScript e Next.js** (Formação Alura)
 - 🌍 Inglês **C1 Avançado** certificado — EF SET · Leitura C2
 - 🚀 Disponível para **estágio ou vaga júnior**
-- 📍 Campina Grande, PB — Brasil
+- 📍 Picuí, PB — Brasil
 
 &nbsp;
 
